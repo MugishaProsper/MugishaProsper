@@ -8,16 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow pushing to output branch
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false # Required for github-pages deploy
 
       - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v3 # Use stable version
         with:
           github_user_name: mugishaprosper
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: '2E8B57'
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: '2E8B57'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -25,3 +28,5 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "Update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
