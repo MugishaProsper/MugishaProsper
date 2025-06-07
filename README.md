@@ -1,7 +1,7 @@
 # <div align="center">🚀 Mugisha Prosper</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Developer;Data+Science+Enthusiast;Backend+Developer;Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Developer;Data+Science+Enthusiast;Backend+Developer;" alt="Typing SVG" />
 </div>
 
 <div align="center">
