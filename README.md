@@ -71,11 +71,14 @@ class SoftwareDeveloper:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mugishaprosper/neurai">
+  <a href="https://github.com/MugishaProsper/neurai">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mugishaprosper&repo=your-project-1&theme=radical" />
   </a>
   <a href="https://github.com/VugaTech/KinyaVoiceAI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VugaTech&repo=KinyaVoiceAI&theme=radical" />
+  </a>
+  <a href="https://github.com/MugishaProsper/defi-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MugishaProsper&repo=defi-app&theme=radical" />
   </a>
 </div>
 
