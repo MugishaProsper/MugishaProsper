@@ -71,27 +71,27 @@ class SoftwareDeveloper:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/mugishaprosper/your-project-1">
+  <a href="https://github.com/mugishaprosper/neurai">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mugishaprosper&repo=your-project-1&theme=radical" />
   </a>
-  <a href="https://github.com/mugishaprosper/your-project-2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mugishaprosper&repo=your-project-2&theme=radical" />
+  <a href="https://github.com/VugaTech/KinyaVoiceAI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VugaTech&repo=KinyaVoiceAI&theme=radical" />
   </a>
 </div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://linkedin.com/in/mugisha-prosper-7a5981297">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://m-polo.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nelsonprox92@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
