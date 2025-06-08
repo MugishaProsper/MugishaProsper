@@ -72,7 +72,7 @@ class SoftwareDeveloper:
 
 <div align="center">
   <a href="https://github.com/MugishaProsper/neurai">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mugishaprosper&repo=your-project-1&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mugishaprosper&repo=neurai&theme=radical" />
   </a>
   <a href="https://github.com/VugaTech/KinyaVoiceAI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VugaTech&repo=KinyaVoiceAI&theme=radical" />
