@@ -12,7 +12,7 @@
 ## 🎯 About Me
 
 ```python
-class SoftwareDeveloper:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Mugisha Prosper"
         self.role = "Software Engineer"
