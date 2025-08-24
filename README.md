@@ -1,7 +1,7 @@
-# <div align="center">🚀 Mugisha Prosper</div>
+# <div align="center">This is Mugisha Prosper</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Developer;Data+Science+Enthusiast;Backend+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Data+Science+Wizard;Backend+Engineer;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,8 +20,8 @@ class SoftwareDeveloper:
             "languages": ["Python", "JavaScript", "Java", "SQL"],
             "frameworks": ["Django", "Flask", "React", "Node.js"],
             "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "tools": ["Git", "Docker", "AWS", "Linux"],
-            "interests": ["Data Science", "Backend Development", "Security"]
+            "tools": ["Git", "Docker", "Kubernetes", "Linux"],
+            "interests": ["Data Science", "Backend Engineering", "Reverse Engineering"]
         }
         
     def code(self):
