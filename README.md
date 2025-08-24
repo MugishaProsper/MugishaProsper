@@ -15,7 +15,7 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Mugisha Prosper"
-        self.role = "Software Developer"
+        self.role = "Software Engineer"
         self.skills = {
             "languages": ["Python", "JavaScript", "Java", "SQL"],
             "frameworks": ["Django", "Flask", "React", "Node.js"],
