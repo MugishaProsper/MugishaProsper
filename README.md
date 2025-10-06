@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Data+Science+Wizard;Backend+Engineer;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mugishaprosper&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mugishaprosper?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
 ## 🎯 About Me
 
 ```python
@@ -18,8 +13,8 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.skills = {
             "languages": ["Python", "JavaScript", "Java", "SQL"],
-            "frameworks": ["Django", "Flask", "React", "Node.js"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "frameworks": ["FastAPI", "Flask", "React", "Node.js"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL", "InfluxDB"],
             "tools": ["Git", "Docker", "Kubernetes", "Linux"],
             "interests": ["Data Science", "Backend Engineering", "Reverse Engineering"]
         }
