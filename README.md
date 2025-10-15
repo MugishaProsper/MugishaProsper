@@ -60,10 +60,7 @@ class SoftwareEngineer:
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/mugisha-prosper-7a5981297">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/p.o.l.o_10">
+  <a href="https://instagram.com/_p.o.l.o_10">
     <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://mugishaprosper-seven.vercel.app">
