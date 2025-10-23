@@ -64,10 +64,3 @@ class SoftwareEngineer:
     <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em>It depends on your choice right now!</em>
-</div>
