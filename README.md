@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=AI/ML+Engineering;Backend+Engineering;Reverse+Engineering" alt="Typing SVG" />
 </div>
 
+# About Me
+
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -47,16 +49,4 @@ class SoftwareEngineer:
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mugishaprosper&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishaprosper&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <a href="https://mugishaprosper-seven.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:nelsonprox92@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_p.o.l.o_10">
-    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
