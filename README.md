@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=AI/ML+Engineering;Backend+Engineering;Reverse+Engineering" alt="Typing SVG" />
 </div>
 
-## 🎯 About Me
-
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -25,7 +23,7 @@ class SoftwareEngineer:
             deploy()
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Tensorflow-232F3E?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -44,14 +42,12 @@ class SoftwareEngineer:
   <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" />
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mugishaprosper&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugishaprosper&layout=compact&theme=radical&hide_border=true" />
 </div>
-
-## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://mugishaprosper-seven.vercel.app">
