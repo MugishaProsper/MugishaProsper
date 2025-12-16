@@ -15,7 +15,7 @@ class SoftwareEngineer:
             "databases": ["PostgreSQL", "MongoDB", "MySQL", "InfluxDB"],
             "tools": ["Git", "Docker", "Kubernetes", "Linux", "Huggingface"],
             "specialization": ["AI/ML Engineering", "Backend Engineering", "Reverse Engineering"],
-            "common_knowledge" : ["DevOps", "MLOps"]
+            "common_knowledge" : ["DevOps", "MLOps", "LLMOps"]
         }
         
     def code(self):
